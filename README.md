@@ -4,4 +4,4 @@ Developed a ticket reservation system where registered and guest users can reser
 
 This project was created with:
 - Java
-- mySQL
+- MySQL
